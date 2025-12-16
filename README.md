@@ -9,9 +9,9 @@ This repository holds the order‑of‑battle and capability assessment lab docu
 
 ## What You'll Learn
 
-- How to build a collection plan across diverse OSINT sources (news articles, court filings, corporate data, public threat indicators etc.)【78954969918139†screenshot】.
-- How to construct a capability matrix with units, quantities, readiness and confidence scores.
+- How to build a collection plan across diverse OSINT sources (news articles, court filings, corporate data, public threat indicators etc.)
+- How to constnfidence scores.
 - How to apply abductive reasoning to compare competing hypotheses about capability and intent.
 - How to write key judgments, document assumptions and recommend further collection requirements.
 
-All information in this lab is gathered from publicly available sources【78954969918139†screenshot】. No sensitive or classified data is required.
+All information in this lab is gathered from publicly available sources. No sensitive or classified data is required.
